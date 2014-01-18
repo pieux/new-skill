@@ -11,5 +11,13 @@
 
     <artifactId>toy-grizzly</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.glassfish.grizzly</groupId>
+            <artifactId>grizzly-framework</artifactId>
+            <version>2.3.10</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
