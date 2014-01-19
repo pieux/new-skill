@@ -11,6 +11,7 @@
     <modules>
         <module>toy-grizzly</module>
         <module>toy-jersey</module>
+        <module>toy-jersey-webapp</module>
     </modules>
 
 </project>
